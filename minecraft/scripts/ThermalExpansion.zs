@@ -1,0 +1,1 @@
+mods.thermalexpansion.Smelter.addRecipe(800, <minecraft:sandstone>, <ThermalFoundation:material:0>, <gregtech:gt.metaitem.01:11304>, <ThermalExpansion:material:514>, 25);

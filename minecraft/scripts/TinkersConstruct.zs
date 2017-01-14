@@ -138,3 +138,5 @@ mods.tconstruct.Casting.addBasinRecipe(<TConstruct:CrossbowLimbPart:314>, <liqui
 
 mods.tconstruct.Casting.addBasinRecipe(<TConstruct:CrossbowBodyPart:314>, <liquid:molten.unstableingots> * 720, <TConstruct:Cast:2>, false, 20);
 
+recipes.addShaped(<TConstruct:Armor.DryingRack>, [[<ore:slabWood>, <ore:slabWood>, <ore:slabWood>], [null, null, null], [null, null, null]]);
+

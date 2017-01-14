@@ -134,3 +134,7 @@ furnace.addRecipe(<harvestcraft:raisinsItem>, grapes);
 <ore:foodGrapejuice>.add(<gregtech:gt.metaitem.02:32101>);
 <ore:foodLemonaide>.add(<gregtech:gt.metaitem.02:32133>);
 <ore:foodApplejuice>.add(<gregtech:gt.metaitem.02:32125>);
+
+// domi
+recipes.remove(<harvestcraft:freshwaterItem>);
+recipes.addShapeless(<harvestcraft:freshwaterItem> * 4, [<ore:bucketWater>]);

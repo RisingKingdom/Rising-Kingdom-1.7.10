@@ -27,9 +27,9 @@ recipes.addShaped(<ProjectE:item.pe_klein_star>, [[<ProjectE:item.pe_fuel:1>, <P
                                                   [<ProjectE:item.pe_fuel:1>, <ore:gemEmerald>, <ProjectE:item.pe_fuel:1>], 
 												  [<ProjectE:item.pe_fuel:1>, <ProjectE:item.pe_matter>, <ProjectE:item.pe_fuel:1>]]);
 
-recipes.addShaped(<ProjectE:item.pe_philosophers_stone>, [[<miscutils:itemDustUranium232>, <Calculator:FlawlessFireBlock>, <miscutils:itemDustUranium232>],
+recipes.addShaped(<ProjectE:item.pe_philosophers_stone>, [[<miscutils:itemDustThorium232>, <Calculator:FlawlessFireBlock>, <miscutils:itemDustThorium232>],
                                                           [<Calculator:FlawlessFireBlock>, <gregtech:gt.metaitem.01:32706>, <Calculator:FlawlessFireBlock>],
-														  [<miscutils:itemDustUranium232>, <Calculator:FlawlessFireBlock>, <miscutils:itemDustUranium232>]]);
+														  [<miscutils:itemDustThorium232>, <Calculator:FlawlessFireBlock>, <miscutils:itemDustThorium232>]]);
 														  
 recipes.addShaped(<ProjectE:alchemical_chest>, [[<ProjectE:item.pe_covalence_dust>, <ProjectE:item.pe_covalence_dust:1>, <ProjectE:item.pe_covalence_dust:2>], 
                                                 [<gregtech:gt.blockcasings:11>, <ProjectE:item.pe_philosophers_stone>, <gregtech:gt.blockcasings:11>], 
