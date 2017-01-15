@@ -25,3 +25,5 @@ recipes.addShapeless(<minecraft:emerald> * 9, [<minecraft:emerald_block>]);
 recipes.addShapeless(<ThermalFoundation:material:72> * 9, [<ore:blockInvar>]);
 
 recipes.addShaped(<minecraft:glowstone>, [[<minecraft:glowstone_dust>, <minecraft:glowstone_dust>, null], [<minecraft:glowstone_dust>, <minecraft:glowstone_dust>, null], [null, null, null]]);
+
+recipes.addShapeless(<minecraft:lapis_block>, [<ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>, ]);
