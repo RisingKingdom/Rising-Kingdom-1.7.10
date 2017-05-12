@@ -1,1 +1,0 @@
-recipes.addShapeless(<FoodPlus:squid>, [<FoodPlus:tentacle>, <FoodPlus:tentacle>, <FoodPlus:tentacle>, <FoodPlus:tentacle>, <FoodPlus:tentacle>, <FoodPlus:tentacle>, <FoodPlus:tentacle>, <FoodPlus:tentacle>, <FoodPlus:tentacle>]);
